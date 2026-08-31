@@ -1,0 +1,1 @@
+"""ArenaHub command-line interface."""
